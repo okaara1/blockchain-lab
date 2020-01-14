@@ -21,7 +21,7 @@
         "fabric-client": "^1.4.4",
         "fabric-contract-api": "1.4.2",
         "fabric-network": "^1.4.4",
-        "fabric-shim": "1.4.2",
+        "fabric-shim": "^1.4.4",
         "fs": "0.0.1-security",
         "js-yaml": "^3.13.1",
         "log4js": "^6.1.0"
@@ -29,11 +29,11 @@
     "devDependencies": {
         "chai": "^4.2.0",
         "chai-as-promised": "^7.1.1",
-        "eslint": "^6.3.0",
+        "eslint": "^6.8.0",
         "mocha": "^6.2.0",
         "nyc": "^14.1.1",
         "sinon": "^7.4.1",
-        "sinon-chai": "^3.3.0",
+        "sinon-chai": "^3.4.0",
         "winston": "^3.2.1"
     },
     "nyc": {
