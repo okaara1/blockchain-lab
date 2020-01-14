@@ -1,0 +1,14 @@
+### Check active Docker containers
+> docker ps
+
+### In the output, find the container which runs the peer and copy the container ID into the command below
+
+### Enter the peer Docker container to run smart contract commands
+> docker exec -it [CONTAINER_ID] bash
+
+### Inside the container, run below command to submit a new donation
+> peer chaincode invoke -C mychannel -n blockchain-lab -c '{"Args":["createDonation", "D1", "250", "P1"]}'
+
+### Query a donation/project
+> peer chaincode query -C mychannel -n blockchain-lab -c '{"Args":["readAsset","P1"]}'
+
