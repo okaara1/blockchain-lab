@@ -1,4 +1,4 @@
-# Hyperledger Fabric Intro Lab!
+# Hyperledger Fabric Intro Lab
 This is a very simple demonstration of how to write smart contracts on Hyperledger Fabric (1.4). During this lab, you will:
 
 
