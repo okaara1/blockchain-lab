@@ -4,7 +4,7 @@ This is a very simple demonstration of how to write smart contracts on Hyperledg
 
 1. Create and package your first smart contract
 2. Connect to a local instance of Hyperledger Fabric blockchain
-3. Run and debug a smart contract
+3. Code and run a smart contract
 4. Submit transactions to the ledger
 
 
