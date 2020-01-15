@@ -30,6 +30,7 @@ Create a new smart contract function that upon invocation, creates a new researc
 - Project name
 - Description
 - Amount to be raised
+- Funding status (Collecting / Achieved)
 - Name of research organization (RO)
 - Name of charity that collects money for the RO
 
