@@ -20,3 +20,21 @@ We will be doing the development using a Fabric extension to VS Code. There are 
 Follow the link below to get to the tutorial to set up the environment and get started! 
 
 https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-develop-vscode
+
+### Step 1:
+Set up the environment and create a new project with an asset named "Donation".
+
+### Step 2:
+Create a new smart contract function that upon invocation, creates a new research project that is seeking funding that consists of the following fields:
+- Project ID
+- Project name
+- Description
+- Amount to be raised
+- Name of research organization (RO)
+- Name of charity that collects money for the RO
+
+### Step 3:
+Modify the function that creates the asset (Donation) to accept these parameters:
+- Name of donor
+- Amount of money to donate
+- The targeted research project ID (see step 2)
