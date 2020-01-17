@@ -1,4 +1,4 @@
-# Hyperledger Fabric Intro Lab
+# Donation transparency with Hyperledger Fabric intro
 This is a very simple demonstration of how to write smart contracts on Hyperledger Fabric (1.4). During this lab, you will:
 
 
