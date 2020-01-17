@@ -39,3 +39,9 @@ Modify the function that creates the asset (Donation) to accept these parameters
 - Name of donor
 - Amount of money to donate
 - The targeted research project ID (see step 2)
+
+Great work! That's it, hope you had fun and learned something. 
+
+#### Going forward:
+I would recommend to have a read on their Read the Docs page (https://hyperledger-fabric.readthedocs.io/en/release-1.4/) to get acquianted with key concepts, the various components of the network and how their interact and other fun stuff. If you want to see other sample/tutorial projects I would recommend to check their Fabric Samples repository (https://github.com/hyperledger/fabric-samples). For instance, check out their Commercial Paper network!
+
