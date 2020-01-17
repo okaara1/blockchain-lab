@@ -13,7 +13,8 @@ We will be doing the development using a Fabric extension to VS Code. There are 
 
 ## Prerequisites (preferrably latest)
 - VS Code (https://code.visualstudio.com)
-- Docker (https://www.docker.com/products/docker-desktop)
+- Docker (https://www.docker.com/get-started)
+- Docker Compose (https://docs.docker.com/compose/install/)
 - NodeJS (https://nodejs.org/en/download/)
 
 ## Steps
