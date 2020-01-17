@@ -15,7 +15,7 @@ We will be doing the development using a Fabric extension to VS Code. There are 
 - VS Code (https://code.visualstudio.com)
 - Docker (https://www.docker.com/get-started)
 - Docker Compose (https://docs.docker.com/compose/install/)
-- NodeJS (https://nodejs.org/en/download/)
+- NodeJS + NPM (https://nodejs.org/en/download/)
 
 ## Steps
 Follow the link below to get to the tutorial to set up the environment and get started! 
