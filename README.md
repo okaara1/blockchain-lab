@@ -22,6 +22,8 @@ Follow the link below to get to the tutorial to set up the environment and get s
 
 https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-develop-vscode
 
+Follow the tutorial until step two. When selecting language, pick javascript and when creating the asset, name it "donation" instead of "bond". 
+
 ### Step 1:
 Set up the environment and create a new project with an asset named "Donation".
 
