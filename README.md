@@ -44,7 +44,7 @@ Now when you have a smart contract function that creates new research projects, 
 Follow the same steps as above, but instead call the read/query function to validate that the asset was submitted to the ledger.
 
 ### Step 5:
-Modify the function that creates the asset (Donation) to accept these parameters:
+Modify the function that creates the asset (probably named "createDonation" if you named your asset "Donation") to accept these parameters:
 - Name of donor
 - Amount of money to donate
 - The targeted research project ID (see step 2)
